@@ -17,6 +17,11 @@ release에서 해당 주차의 실습자료를 다운로드 받아 사용하기 
 
 ### 26-2
 
+✅ 12-2. 12-1 플러그인 실습
+
+* `Plugins/HealthKit` 플러그인 + 프로젝트 모듈의 `TrainingDummy` 액터.
+* 시연 레벨: `Content/HealthKit/Lvl_HealthKit`
+
 ✅ 11-2 중간실습3 풀이
 
 * 엔진 5.8로 변경되었음.

@@ -18,7 +18,8 @@ public class Div1Sample : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate",
+			"HealthKit"	// 12-2: 플러그인 모듈 의존성
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
